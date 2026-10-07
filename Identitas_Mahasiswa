@@ -1,0 +1,13 @@
+package com.mycompany.identitas_Mahasiswa;
+
+
+public class identitas_Mahasiswa {
+
+    public static void main(String[] args) {
+        System.out.println("===== DATA MAHASISWA =====");
+        System.out.println("Nama            : Airzakaz Cakra Wardhana");
+        System.out.println("NIM             : 0902066260");
+        System.out.println("Program Studi   : Sistem Informasi");
+        System.out.println("Semester        : 1");
+    }
+}
