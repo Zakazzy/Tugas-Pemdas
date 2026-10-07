@@ -1,0 +1,8 @@
+package com.mycompany.pemogramandasar;
+
+public class Hallo_Word {
+   public static void main (String[] args) {
+      
+       System.out.println("Hallo Word");
+    }
+}
