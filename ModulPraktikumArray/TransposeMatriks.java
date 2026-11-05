@@ -1,4 +1,4 @@
-package Latihan_Array;
+package com.mycompany.ModulPraktikumArray;
 public class TransposeMatriks {
     public static void main(String[] args){
     

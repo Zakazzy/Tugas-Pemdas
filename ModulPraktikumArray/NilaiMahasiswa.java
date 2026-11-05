@@ -1,4 +1,4 @@
-package Latihan_Array;
+package com.mycompany.ModulPraktikumArray;
 import java.util.Scanner;
 public class NilaiMahasiswa {
     

@@ -1,4 +1,4 @@
-package Latihan_Array;
+package com.mycompany.ModulPraktikumArray;
 public class NilaiTerbesar {
      public static void main(String[] args) {
         int[][] matriks = {
